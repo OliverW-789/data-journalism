@@ -1,0 +1,1 @@
+This is the data visualisation code I created for my data journalism group project, I made three visualisations and three python codes representing the data cleaning process for each of the three charts. I have also uploaded the source data for the data cleaning and the cleaned tabular data here
